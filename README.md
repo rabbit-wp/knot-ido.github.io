@@ -14,11 +14,11 @@
 
 ### 这是我自己搭建的一个小型观影网站，有兴趣的小伙伴可以收藏哦
 
-[点我进入](https://tv.knot-ido.tk)
+[点我进入](http://tv.knot-ido.tk)
 
 
 ### 没有更多内容啦
-[点我返回](https://ph.knot-ido.tk)
+[点我返回](http://ph.knot-ido.tk)
 
 
 ### 内容设置
