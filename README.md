@@ -1,4 +1,5 @@
-## 喵主子的领地
+Syntax highlighted code block
+# 喵主子的领地
 
 
 欢迎访问我的个人博客，现在正处于建设期请稍候哦！
