@@ -19,7 +19,7 @@ Syntax highlighted code block
 
 
 ### 没有更多内容啦
-[点我返回主页](http://ph.knot-ido.tk)
+[点我返回主页](http://knot-ido.tk/ph)
 
 
 ### 内容设置
